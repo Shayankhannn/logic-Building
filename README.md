@@ -1,1 +1,1 @@
-# logic-Building  using Python and Js
+# logic-Building  using Python and Javascript
